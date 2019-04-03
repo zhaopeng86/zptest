@@ -1,1 +1,1 @@
-version=1
+https://github.com/zhaopeng86/zptest/raw/master/app-release.apk=1
